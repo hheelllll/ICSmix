@@ -2,6 +2,8 @@
 
 This is a lightweight and modern desktop application developed with Java and JavaFX, designed to solve the common pain point of managing multiple `.ics` calendar files. It allows users to easily merge several calendar files (such as university course schedules, meetings, etc.) into a single `.ics` file for a hassle-free, one-time import into any calendar software.
 
+
+![img.png](img.png)
 ##  Core Features
 * **Modern & Intuitive UI:** Features a clean, flat-design interface. Users can easily browse and select multiple `.ics` files via a native system file chooser dialog.
 * **High Compatibility:** Powered by the robust `iCal4j` library with "relaxed parsing" enabled. It perfectly handles and merges slightly malformed calendar files often exported from university portals or third-party apps without crashing.
